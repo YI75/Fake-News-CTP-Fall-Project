@@ -5,7 +5,7 @@
 [Project details](https://docs.google.com/document/d/1o8N6VZA3YwFrz7dcGQarx9YZgF7hIMW4iRBaKGh6XAA/edit?usp=sharing)
 
 Project Team:
-  Yussef Ibarra
-  Iasha sakandar
-  Khiola Rustamova
+  *Yussef Ibarra
+  *Iasha sakandar
+  *Khiola Rustamova
 
